@@ -1,0 +1,95 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .container{
+    margin-bottom: 100px;
+}
+
+.col-md-7{
+    background-image: url("/resource/bg-1.png");
+    background-repeat: no-repeat;
+}
+
+.nav-item{
+    font-size: 22px;
+    padding: 20px;
+    font-weight: 650;
+}
+
+.buy-now{
+    background-image: linear-gradient(to bottom, #0f160d 0%, #0a1d01 100%);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+.bg-img{
+    background-image: url("/resource/bg-2.png");
+    background-repeat: no-repeat;
+    
+}
+
+p{
+    color: gray;
+    font-size: 18px;
+}
+
+.smart{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.see{
+    
+    color:  #FF9C35 ;
+    font-weight: bolder;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+h6{
+    font-weight: bolder;
+}
+h5{
+    font-weight: bold;
+}
+.card-body{
+    align-items: center;
+}
+
+.cat{
+    border-bottom: 6px solid palegreen;
+    width: 100px;
+    font-weight: bold;
+    color: black;
+    
+}
+
+
+.deck{
+    margin-bottom: 30px;
+}
+
+.header{
+    text-align: center;
+}
+.bag-img{
+    width: 60%;
+}
+
+.cat-img{
+    width: 120%;
+    padding: 30px;
+}
+
+
+
+
+
